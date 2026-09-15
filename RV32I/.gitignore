@@ -1,0 +1,14 @@
+# Папка со скомпилированными модулями
+work/
+
+# Временные файлы и базы данных симуляции
+temp/
+transcript
+*.wlf
+*.log
+*.ini
+vsim.wlf
+modelsim.ini
+
+.vscode/
+
